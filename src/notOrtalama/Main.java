@@ -35,6 +35,7 @@ public class Main {
 		String durum = (sonuc > 60) ? "Sınıfı geçti" : "Sınıfta kaldı";
 
 		System.out.println("Ortalamanız : " + sonuc);
+		
 		System.out.println(durum);
 
 	}
